@@ -26,3 +26,12 @@ oracle-hr-sql
     ├── workforce
     └── salary
 ```
+
+## Project Objectives
+
+The main objectives of this project are:
+
+- Practice SQL using the Oracle HR Sample Schema.
+- Analyze employee and department data.
+- Solve business-oriented SQL tasks.
+- Demonstrate SQL skills through real-world scenarios.
