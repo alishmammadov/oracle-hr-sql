@@ -13,8 +13,5 @@ Oracle HR Sample Schema
 Tables:
 - Employees
 - Departments
-
-Author:
-Alish Mammadov
 ====================================================
 */
