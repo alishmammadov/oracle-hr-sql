@@ -35,3 +35,14 @@ The main objectives of this project are:
 - Analyze employee and department data.
 - Solve business-oriented SQL tasks.
 - Demonstrate SQL skills through real-world scenarios.
+
+  ## SQL Skills Demonstrated
+
+- **Basic SQL:** SELECT, FROM, ORDER BY
+- **Joins:** INNER JOIN
+- **Grouping:** GROUP BY
+- **Aggregate Functions:** COUNT(), AVG(), MIN(), MAX()
+- **Window Functions:** COUNT() OVER(), AVG() OVER(), RANK() OVER(), PARTITION BY
+- **Numeric Functions:** ROUND()
+- **NULL Handling:** NVL2()
+- **Subqueries**
