@@ -22,9 +22,6 @@ oracle-hr-sql
 ├── sql
 │   ├── 01_workforce_overview.sql
 │   └── 02_salary_analysis.sql
-└── images
-    ├── workforce
-    └── salary
 ```
 
 ## Project Objectives
